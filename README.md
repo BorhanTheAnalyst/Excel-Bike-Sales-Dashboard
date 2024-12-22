@@ -28,7 +28,8 @@ README.md: Documentation of the project.
 - Use slicers to filter data dynamically by region, marital status, and education.
 
 # Dashboard
-![Screenshot 2024-12-22 083920](https://github.com/user-attachments/assets/97696848-0d20-42b2-badb-a505dae29077)
+![Screenshot 2024-12-22 110404](https://github.com/user-attachments/assets/c51413b0-9d6b-4c5b-9c99-e7e4be892c59)
+
 
 # Project Outcomes
 This project demonstrates proficiency in:
