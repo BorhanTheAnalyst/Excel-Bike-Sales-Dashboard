@@ -1,5 +1,5 @@
 # Excel-Bike-Sales-Dashboard
-Project Overview
+## Project Overview
 This project involves analyzing bike sales data to identify trends and insights using Microsoft Excel. The key deliverable is an interactive dashboard that visualizes data dynamically, helping stakeholders make data-driven decisions.
 
 Features
