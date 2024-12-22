@@ -1,6 +1,6 @@
 # Excel-Bike-Sales-Dashboard
 ## Project Overview
-### This project involves analyzing bike sales data to identify trends and insights using Microsoft Excel. The key deliverable is an interactive dashboard that visualizes data dynamically, helping stakeholders make data-driven decisions.
+#### This project involves analyzing bike sales data to identify trends and insights using Microsoft Excel. The key deliverable is an interactive dashboard that visualizes data dynamically, helping stakeholders make data-driven decisions.
 
 ## Features
 #### Interactive Dashboard: Built using Excel's Pivot Tables, slicers, and charts. 
@@ -10,9 +10,10 @@ Insights: Highlighted trends such as top-performing regions, income groups with 
 Excel Features: Pivot Tables, slicers, charts, and conditional formatting.
 Data Cleaning: Preprocessed the raw data to ensure accuracy and consistency.
 Visualization: Created dynamic visualizations for filtering and comparing data interactively.
+## Dataset used
+<a href="https://github.com/BorhanTheAnalyst/Bike-sales-dataset/blob/main/Excel%20Project%20Dataset.xlsx">Bike sales dataset</a>
 ## Data Used
 The dataset includes:
-
 Customer demographics (age, income, marital status, etc.)
 Sales data (region, purchase method, bike categories)
 ## Key Insights
