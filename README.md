@@ -15,11 +15,10 @@
 ## Data Used
 The dataset includes:
 - Customer demographics (age, income, marital status, etc.)
-- Sales data (region, purchase method, bike categories)
+- Sales data
 ## Key Insights
-- Top Regions: Region X accounted for the highest sales, with 30% above average performance.
-- Customer Segment: High-income customers were 50% more likely to purchase bikes.
-- Product Popularity: Road bikes were the most purchased category.
+- Top Regions: Region X accounted for the highest sales.
+- Customer Segment: Married customers were more likely to purchase bikes.
 # Files in Repository
 Bike_Sales_Dashboard.xlsx: The Excel file containing raw data, Pivot Tables, and the dashboard.
 README.md: Documentation of the project.
@@ -37,4 +36,3 @@ This project demonstrates proficiency in:
 - Data cleaning and analysis using Excel.
 - Creating interactive dashboards for data visualization.
 - Identifying actionable insights to aid business decision-making.
-- 
